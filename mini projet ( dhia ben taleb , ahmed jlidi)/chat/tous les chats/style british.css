@@ -1,0 +1,106 @@
+body{
+    background-image: url(../../images/bg.jpg);
+    background-size: cover;
+    
+}
+#logo{
+    width: 200px;
+    position: relative;
+    bottom: 5%;
+    right: 1%;
+
+}
+h1{
+    position: absolute;
+    text-align: center;
+    top: 8%;
+    left: 45%;
+    font-size: 43px;
+    font-family:Impact;
+   color:rgb(36, 204, 165) ;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+}
+h2{
+    font-family: Comic Sans MS;
+    color: rgb(99, 0, 0);
+    text-decoration: underline;
+    
+}
+.chatchien{
+    font-size: 25px;
+    text-align: center;
+    color: rgb(10, 107, 5);
+    font-family:Arial Black;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+#barre-de-recherche{
+    height: 75%;
+    width: 100%;
+}
+#barre{
+    height: 8%;
+    width: 80%;
+    position: absolute;
+    top: 0.25%;
+    right: 1%;
+}
+#cntct{
+    width: 100%;
+    height: 10%;
+    background-color: rgb(159, 216, 203)
+}
+#tb,.tdr,.tdr1,.tdr2{
+    border: 2px solid  ;
+    border-color: black;
+    border-collapse: collapse;
+    width: 40%;
+    height: 50%;
+
+
+}
+.tdr1{
+    color: rgb(36, 70, 204);
+    font-family:Arial Black;
+    -webkit-text-stroke-width: 0.25px;
+    -webkit-text-stroke-color: black;
+    font-size: 21px;
+}
+.tdr2{
+    color: rgb(204, 36, 36);
+    font-family:Arial Black;
+    -webkit-text-stroke-width: 0.25px;
+    -webkit-text-stroke-color: black;
+    font-size: 21px;
+}
+.tdr{
+    color: rgb(36, 204, 165);
+    font-family:Arial Black;
+    -webkit-text-stroke-width: 0.25px;
+    -webkit-text-stroke-color: black;
+    font-size: 21px;   
+}
+.british{
+    width: 200px;
+    position:relative;
+}
+#acheter{
+    width: 40%;
+    color: rgb(0, 201, 3);
+    font-family:Arial Black;
+    -webkit-text-stroke-width: 0.25px;
+    -webkit-text-stroke-color: black;
+    font-size: 19px;
+}
+span{
+    color: red;
+}
+ol{
+    width: 40%;
+    color: rgb(0, 40, 201);
+    font-family:Arial Black;
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: black;
+    font-size: 19px;
+}
